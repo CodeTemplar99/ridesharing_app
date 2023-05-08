@@ -1,10 +1,7 @@
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
 import 'package:flutter_application_1/utils/colors.dart';
 import 'package:flutter_application_1/utils/constants.dart';
 import 'package:flutter_application_1/utils/dimension.dart';
-import 'package:flutter_application_1/views/widgets/car_list_item.dart';
 import 'package:flutter_application_1/views/widgets/expense_row.dart';
 import 'package:flutter_application_1/views/widgets/sticky_card_option.dart';
 import 'package:flutter_svg/flutter_svg.dart';
